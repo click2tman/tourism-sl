@@ -1,0 +1,14 @@
+uuid: e547fe61-3f94-4574-aae2-e3afd86471c0
+name: tourism-sl
+mail: tamba@tambalamin.me
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
